@@ -6,3 +6,5 @@ My life will enter to a new stage,I would like to markdown something about my da
 About study,daily life,emotion and so on...
 
 i modify this markdown file!
+
+Today is  6th Jan£¬2019£¡
